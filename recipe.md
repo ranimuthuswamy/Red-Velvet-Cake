@@ -7,3 +7,6 @@ Divide batter evenly between pans. Bake for 30-35 minutes or until a toothpick i
 To make the frosting: In the bowl of an electric mixer fitted with the paddle attachment, beat butter and cream cheese on medium-high speed until smooth and creamy, 1-2 minutes. Add sugar in 2 additions, beating well after each addition until smooth. Add vanilla and salt and keep beating until smooth and fluffy.
 Assembling the cake: Set one layer on a plate with the flat side facing up (or, if your cake rose too much, cut its rounded top with a knife to make it flat). Evenly spread a thick layer of the frosting over the cake to the edge. Top with the second cake layer, rounded side up. Spread the remaining frosting over the top and sides of the cake.
 Store cake in an airtight container in the fridge for up to 5 days. I like to remove it from the fridge 15-20 minutes before serving so that it's soft.
+
+
+[Go to Main Page](README.md)
