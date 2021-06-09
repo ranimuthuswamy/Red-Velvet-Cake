@@ -12,5 +12,5 @@ red velvet cake
 How to Make Red Velvet Cake
 A combination of ingredients such as vinegar, red food coloring, cocoa powder and buttermilk is what makes this cake so unique. It’s easy to make, I promise.
 
-[ingredients]
-[recipe]
+[ingredients](./ingredients.md)
+[recipe](recipe.md)
