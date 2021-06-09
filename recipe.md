@@ -1,3 +1,4 @@
+[TOC]
 Instructions
 To make the cake: Preheat oven to 350°F/180°C. Grease two 8-inch or 9-inch cake pans that are at least 2-inches high, and line the bottom of the pan with a round piece of parchment paper.
 In a medium bowl, sift together flour, cornstarch, cocoa powder, baking soda, and salt. Set aside.
